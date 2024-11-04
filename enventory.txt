@@ -1,0 +1,7 @@
+Num  Book                                                        Author                        Year    Price
+------------------------------------------------------------------------------------------------------------------------
+1    Hamlet                                                      William Shakespeare           1601    $14.52
+2    A Tale of Two Cities                                        Charles Dickens               1859    $9.56
+3    Ulysses                                                     James Joyce                   1922    $19.97
+4    The Old Man and the Sea                                     Earnest Hemingway             1952    $10.35
+5    Harry Potter and the Philosopher’s Stone                    J.K. Rowling                  1997    $16.62
